@@ -13137,8 +13137,9 @@ noop-logger@^0.1.1:
     abbrev "1"
 
 "nord-visual-studio-code@github:arcticicestudio/nord-visual-studio-code":
-  version "0.13.0"
-  resolved "https://codeload.github.com/arcticicestudio/nord-visual-studio-code/tar.gz/9a7c62e8579d96f89251322b41dcf1de2e9f205f"
+  version "0.15.1"
+  uid dc02a8fd6f9bc8d1cecec708c6eb984e06d498a9
+  resolved "https://codeload.github.com/arcticicestudio/nord-visual-studio-code/tar.gz/dc02a8fd6f9bc8d1cecec708c6eb984e06d498a9"
 
 normalize-package-data@^2.3.2, normalize-package-data@^2.3.4, normalize-package-data@^2.5.0:
   version "2.5.0"
